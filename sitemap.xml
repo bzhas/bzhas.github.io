@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://bzhas.github.io/about/index.html</loc>
+    <lastmod>2015-05-31T02:08:28.202Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bzhas.github.io/tags/index.html</loc>
+    <lastmod>2015-05-31T02:08:07.610Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bzhas.github.io/categories/index.html</loc>
+    <lastmod>2015-05-31T02:06:36.458Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bzhas.github.io/2015/05/31/hello-world/</loc>
+    <lastmod>2015-05-31T01:24:12.156Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bzhas.github.io/2015/05/31/test/</loc>
+    <lastmod>2015-05-30T07:00:45.183Z</lastmod>
+  </url>
+  
+</urlset>
